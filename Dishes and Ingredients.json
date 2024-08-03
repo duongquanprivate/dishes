@@ -1,0 +1,190 @@
+{
+  "ingredients": [
+    { "id": 1, "name": "Cải ngọt", "quantity": "1 phần" },
+    { "id": 2, "name": "Tỏi", "quantity": "3-4 tép" },
+    { "id": 3, "name": "Dầu ăn", "quantity": "theo khẩu vị" },
+    { "id": 4, "name": "Muối", "quantity": "theo khẩu vị" },
+    { "id": 5, "name": "Steak Tenderloin", "quantity": "300 gram" },
+    { "id": 6, "name": "Tiêu", "quantity": "theo khẩu vị" },
+    { "id": 7, "name": "Dầu olive", "quantity": "theo khẩu vị" },
+    { "id": 8, "name": "Cá ngừ", "quantity": "1 con" },
+    { "id": 9, "name": "Cà chua", "quantity": "2 trái" },
+    { "id": 10, "name": "Me", "quantity": "1 quả" },
+    { "id": 11, "name": "Rau thơm", "quantity": "ngò, rau ngổ" },
+    { "id": 12, "name": "Nước mắm", "quantity": "theo khẩu vị" },
+    { "id": 13, "name": "Đường", "quantity": "theo khẩu vị" },
+    { "id": 14, "name": "Bông cải xanh", "quantity": "1 phần" },
+    { "id": 15, "name": "Sườn non", "quantity": "300 gram" },
+    { "id": 16, "name": "Mật ong", "quantity": "theo khẩu vị" },
+    { "id": 17, "name": "Thịt bằm", "quantity": "50 gram" },
+    { "id": 18, "name": "Bí đỏ", "quantity": "1 phần" },
+    { "id": 19, "name": "Hành", "quantity": "theo khẩu vị" },
+    { "id": 20, "name": "Cải thìa", "quantity": "1 phần" },
+    { "id": 21, "name": "Nấm", "quantity": "100 gram" },
+    { "id": 22, "name": "Cá hồi", "quantity": "300 gram" },
+    { "id": 23, "name": "Chanh", "quantity": "1 trái" },
+    { "id": 24, "name": "Su hào", "quantity": "1 củ" },
+    { "id": 25, "name": "Cà rốt", "quantity": "1 củ" },
+    { "id": 26, "name": "Đậu que", "quantity": "1 phần" },
+    { "id": 27, "name": "Má đùi gà", "quantity": "300 gram" },
+    { "id": 28, "name": "Thịt mông lợn", "quantity": "400 gram" },
+    { "id": 29, "name": "Gừng", "quantity": "1 củ" },
+    { "id": 30, "name": "Thịt bò", "quantity": "100 gram" },
+    { "id": 31, "name": "Bột chiên giòn", "quantity": "theo khẩu vị" },
+    { "id": 32, "name": "Nước mắm chay", "quantity": "theo khẩu vị" },
+    { "id": 33, "name": "Rong biển khô", "quantity": "1 phần" },
+    { "id": 34, "name": "Đậu hũ non", "quantity": "1 phần" },
+    { "id": 35, "name": "Nấm đùi gà", "quantity": "200 gram" },
+    { "id": 36, "name": "Xả", "quantity": "theo khẩu vị" },
+    { "id": 37, "name": "Ớt", "quantity": "theo khẩu vị" },
+    { "id": 38, "name": "Rau muống", "quantity": "1 phần" },
+    { "id": 39, "name": "Đậu hũ", "quantity": "2 bìa" },
+    { "id": 40, "name": "Nước tương", "quantity": "theo khẩu vị" }
+  ],
+  "dishes": [
+    {
+      "name": "Cải ngọt xào tỏi",
+      "ingredients": [1, 2, 3, 4]
+    },
+    {
+      "name": "Steak Tenderloin áp chảo",
+      "ingredients": [5, 4, 6, 7]
+    },
+    {
+      "name": "Canh chua cá ngừ",
+      "ingredients": [8, 9, 10, 11, 12, 13]
+    },
+    {
+      "name": "Bông cải xanh hấp",
+      "ingredients": [14, 4]
+    },
+    {
+      "name": "Sườn non nướng mật ong",
+      "ingredients": [15, 16, 2, 6]
+    },
+    {
+      "name": "Canh bí đỏ nấu thịt bằm",
+      "ingredients": [18, 17, 19, 4, 12]
+    },
+    {
+      "name": "Cải thìa xào nấm",
+      "ingredients": [20, 21, 2, 3, 4]
+    },
+    {
+      "name": "Cá hồi nướng chanh",
+      "ingredients": [22, 23, 2, 7, 4, 6]
+    },
+    {
+      "name": "Canh su hào cà rốt",
+      "ingredients": [24, 25, 19, 4]
+    },
+    {
+      "name": "Đậu que xào tỏi",
+      "ingredients": [26, 2, 3, 4]
+    },
+    {
+      "name": "Má đùi gà chiên nước mắm",
+      "ingredients": [27, 12, 2, 13, 6]
+    },
+    {
+      "name": "Canh cải thảo nấu thịt mông lợn",
+      "ingredients": [20, 28, 19, 2, 4, 12]
+    },
+    {
+      "name": "Cải ngọt luộc",
+      "ingredients": [1, 4]
+    },
+    {
+      "name": "Bắp bò hấp gừng",
+      "ingredients": [30, 29, 19, 6, 4]
+    },
+    {
+      "name": "Canh cà chua thịt bằm",
+      "ingredients": [9, 17, 19, 2, 4, 12]
+    },
+    {
+      "name": "Cải thìa luộc",
+      "ingredients": [20, 4]
+    },
+    {
+      "name": "Sườn non kho tiêu",
+      "ingredients": [15, 6, 2, 12, 13]
+    },
+    {
+      "name": "Canh bí đỏ nấu tôm/thịt bằm",
+      "ingredients": [18, 17, 19, 4, 12]
+    },
+    {
+      "name": "Bông cải xanh xào thịt bò",
+      "ingredients": [14, 30, 2, 3, 4]
+    },
+    {
+      "name": "Cá ngừ chiên giòn",
+      "ingredients": [8, 31, 3, 4]
+    },
+    {
+      "name": "Canh cải ngọt nấu thịt bằm",
+      "ingredients": [1, 17, 19, 2, 4, 12]
+    },
+    {
+      "name": "Cải thảo xào thịt",
+      "ingredients": [20, 28, 2, 3, 4]
+    },
+    {
+      "name": "Má đùi gà nướng",
+      "ingredients": [27, 4, 6, 7]
+    },
+    {
+      "name": "Canh khoai tây cà rốt",
+      "ingredients": [24, 25, 19, 4]
+    },
+    {
+      "name": "Đậu que xào thịt bằm",
+      "ingredients": [26, 17, 2, 3, 4]
+    },
+    {
+      "name": "Steak Tenderloin nướng tiêu",
+      "ingredients": [5, 6, 2, 7, 4]
+    },
+    {
+      "name": "Canh cải thìa nấu thịt bằm",
+      "ingredients": [20, 17, 19, 2, 4, 12]
+    },
+    {
+      "name": "Cải thảo luộc",
+      "ingredients": [20, 4]
+    },
+    {
+      "name": "Bắp bò xào tỏi",
+      "ingredients": [30, 2, 3, 4]
+    },
+    {
+      "name": "Canh bí đỏ nấu thịt mông lợn",
+      "ingredients": [18, 28, 19, 2, 4, 12]
+    },
+    {
+      "name": "Cải thìa xào tỏi",
+      "ingredients": [20, 2, 3, 4]
+    },
+    {
+      "name": "Đậu hũ kho tiêu",
+      "ingredients": [39, 6, 32, 13, 19]
+    },
+    {
+      "name": "Canh rong biển đậu hũ",
+      "ingredients": [33, 34, 29, 32, 4]
+    },
+    {
+      "name": "Bông cải xanh hấp",
+      "ingredients": [14, 4]
+    },
+    {
+      "name": "Nấm đùi gà xào xả ớt",
+      "ingredients": [35, 36, 37, 3, 4, 32]
+    },
+    {
+      "name": "Canh chua rau muống",
+      "ingredients": [38, 9, 10, 32, 13]
+    }
+  ]
+}
